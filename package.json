@@ -2,7 +2,7 @@
   "name": "nodejs_webchat",
   "version": "1.0.0",
   "description": "Web chat para conversa instatânea",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.2",
     "consign": "^0.1.6",
